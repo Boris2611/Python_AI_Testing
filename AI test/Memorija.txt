@@ -1,0 +1,56 @@
+
+Ulaz: hej
+Izlaz: Pozdrav
+Odgovor: Ćao
+
+Ulaz: kako si
+Izlaz: Pitanje
+Odgovor: PITANJE
+
+Ulaz: top
+Izlaz: Ne znam
+Odgovor: OSTALO
+
+Ulaz: koliko je sati
+Izlaz: Pitanje
+Odgovor: PITANJE
+
+Ulaz: koliko je sati
+Izlaz: Pitanje
+Odgovor: PITANJE
+
+Ulaz: ok
+Izlaz: Ne znam
+Odgovor: OSTALO
+
+Ulaz: kako je
+Izlaz: Pitanje
+Odgovor: PITANJE
+
+Ulaz: kako si
+Izlaz: Pitanje
+Odgovor: PITANJE
+
+Ulaz: heej
+Izlaz: Pozdrav
+Odgovor: Pozdrav
+
+Ulaz: kako je?
+Izlaz: Pitanje
+Odgovor: PITANJE
+
+Ulaz: ide nekako
+Izlaz: Ne znam
+Odgovor: OSTALO
+
+Ulaz: sta je ostalo?
+Izlaz: Pitanje
+Odgovor: PITANJE
+
+Ulaz: pusi kurac
+Izlaz: Uvreda
+Odgovor: F@#k
+
+Ulaz: glup si
+Izlaz: Uvreda
+Odgovor: Smrdljivko...
